@@ -1,7 +1,10 @@
 {
-  "updated": "2026-11-11T19:04:59.373Z",
+  "updated": "2026-11-11T19:37:56.815Z",
   "empresas": {
-    "05": false
+    "05": true,
+    "04": true,
+    "02": true,
+    "01": true
   },
   "items": [
     {
@@ -73,7 +76,7 @@
       "validDate": "",
       "dda": false,
       "ddaDate": "",
-      "holder": "",
+      "holder": "preserve",
       "updatedAt": "2026-11-11"
     },
     {
