@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T18:12:32.327Z",
+  "updated": "2026-11-16T19:06:37.396Z",
   "empresas": {
     "05": true,
     "04": true,
@@ -13,7 +13,7 @@
       "title": "BANCO SAFRA",
       "status": "Em andamento",
       "owner": "Josué",
-      "due": "2026-11-12",
+      "due": "2026-11-17",
       "note": "banco validando layout remessa envio",
       "envio": true,
       "retorno": false,
@@ -23,7 +23,7 @@
       "dda": false,
       "ddaDate": "",
       "holder": "banco",
-      "updatedAt": "2026-11-12"
+      "updatedAt": "2026-11-16"
     },
     {
       "id": "bb",
