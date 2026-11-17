@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T19:06:37.396Z",
+  "updated": "2026-11-17T12:07:10.963Z",
   "empresas": {
     "05": true,
     "04": true,
@@ -30,18 +30,18 @@
       "area": "Bancos",
       "title": "BANCO DO BRASIL",
       "status": "Em andamento",
-      "owner": "Bruna",
+      "owner": "Josué",
       "due": "",
-      "note": "e-mail enviado com a solicitação do manual layout 240  posições / Retorno DDA 240  posições, aguardando retorno do banco",
+      "note": "Banco respondeu com as orientações para habiliatação",
       "envio": false,
       "retorno": false,
-      "qtd": "",
+      "qtd": "04",
       "valid": false,
       "validDate": "",
       "dda": false,
       "ddaDate": "",
-      "holder": "banco",
-      "updatedAt": "2026-11-12"
+      "holder": "jescipe",
+      "updatedAt": "2026-11-17"
     },
     {
       "id": "santander",
@@ -84,9 +84,9 @@
       "area": "Bancos",
       "title": "BANCO CAIXA ECONOMICA",
       "status": "Em andamento",
-      "owner": "Bruna",
+      "owner": "Josué",
       "due": "",
-      "note": "e-mail enviado com a solicitação do manual layout 240  posições / Retorno DDA 240  posições, aguardando retorno do banco",
+      "note": "Banco respondeu com as orientações para habiliatação",
       "envio": false,
       "retorno": false,
       "qtd": "",
@@ -94,8 +94,8 @@
       "validDate": "",
       "dda": false,
       "ddaDate": "",
-      "holder": "banco",
-      "updatedAt": "2026-11-12"
+      "holder": "jescipe",
+      "updatedAt": "2026-11-17"
     },
     {
       "id": "bradesco",
